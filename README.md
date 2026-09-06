@@ -14,6 +14,6 @@ ChatGPT thread: [SWE Study Plan discussion](https://chatgpt.com/c/6a82f093-87c4-
 
 ## Reps
 
-| Rep | Topic  | Description |
-| --- | ------ | ----------- |
-| 001 | Sample | ..........  |
+| Rep | Topic          | Description                             |
+| --- | -------------- | --------------------------------------- |
+| 001 | Race Condition | Create & diagnose a Java race condition |
